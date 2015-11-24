@@ -53,6 +53,11 @@
     <string name="update_settings_summary">Check for the latest version of the rom</string>
     <string name="update_package" translatable="false">org.lineageos.updater</string>
     <string name="update_activity" translatable="false">org.lineageos.updater.UpdatesActivity</string>
+   
+   <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Reset stats</string>
+    <string name="battery_stats_message">Battery history stats are going to be reset</string>
+    <string name="ok_string">Ok</string>
 
     <!-- System theme -->
     <string name="system_theme_wallpaper">Automatic (based on time of day)</string>
