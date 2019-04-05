@@ -139,7 +139,7 @@
 
     <string name="background_processes_settings_title">Background processes</string>
 
-    !-- Privacy Guard -->
+    <!-- Privacy Guard -->
     <string name="privacy_guard_manager_title">Privacy Guard</string>
     <string name="privacy_guard_switch_label">Enable Privacy Guard</string>
     <string name="privacy_guard_dlg_title">Enable Privacy Guard?</string>

@@ -415,6 +415,6 @@ public class PrivacyGuardManager extends SettingsPreferenceFragment
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.SYBERIA;
+        return MetricsEvent.DIRTYTWEAKS;
     }
 }
