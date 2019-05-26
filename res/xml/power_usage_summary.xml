@@ -54,7 +54,6 @@
         android:title="@string/battery_percentage"
         android:summary="@string/battery_percentage_description" />
 
-
     <com.android.settings.fuelgauge.PowerGaugePreference
         android:key="last_full_charge"
         android:title="@string/battery_last_full_charge"
@@ -70,5 +69,10 @@
         android:key="battery_temp"
         android:title="@string/battery_temp_title"
         android:selectable="false" />
+
+    <PreferenceScreen
+        android:key="battery_light_settings"
+        android:title="@string/battery_light_settings"
+        android:fragment="com.dirtyunicorns.tweaks.fragments.BatteryLightSettings" />
 
 </PreferenceScreen>

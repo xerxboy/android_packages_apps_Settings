@@ -3449,5 +3449,7 @@
             </intent-filter>
         </activity>
 
+        <activity android:name="com.dirtyunicorns.tweaks.fragments.BatteryLightSettings" />
+
     </application>
 </manifest>
