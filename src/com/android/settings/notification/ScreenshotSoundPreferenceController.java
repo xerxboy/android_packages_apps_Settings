@@ -32,7 +32,7 @@ public class ScreenshotSoundPreferenceController extends SettingPrefController {
             Lifecycle lifecycle) {
         super(context, parent, lifecycle);
         mPreference = new SettingPref(
-            TYPE_SYSTEM, KEY_SCREENSHOT_SOUNDS, System.SCREENSHOT_SOUND, DEFAULT_ON);
+            TYPE_SYSTEM, KEY_SCREENSHOT_SOUNDS, System.SCREENSHOT_SHUTTER_SOUND, DEFAULT_ON);
 
     }
 
