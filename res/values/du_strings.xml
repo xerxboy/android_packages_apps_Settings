@@ -48,11 +48,6 @@
     <!-- DU version in About phone -->
     <string name="rom_version_title">DU version</string>
 
-    <!-- DU Updater -->
-    <string name="update_settings_title">DU Updater</string>
-    <string name="update_settings_summary">Check for the latest version of the rom</string>
-    <string name="update_package" translatable="false">org.lineageos.updater</string>
-    <string name="update_activity" translatable="false">org.lineageos.updater.UpdatesActivity</string>
    
    <!-- Battery stats reset -->
     <string name="battery_stats_reset">Reset stats</string>
