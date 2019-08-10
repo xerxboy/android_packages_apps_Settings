@@ -83,6 +83,7 @@
     <string name="qs_tile_style_rounded_square">Rounded square</string>
     <string name="qs_tile_style_squircle">Squircle</string>
     <string name="qs_tile_style_tear_drop">Tear drop</string>
+    <string name="qstile_neonlike">Neon Light</string>
 
     <!-- Media gestures -->
     <string name="prevent_ringing_option_mute_no_media">Mute, no media</string>

@@ -23,6 +23,7 @@
         <item>@string/qs_tile_style_rounded_square</item>
         <item>@string/qs_tile_style_squircle</item>
         <item>@string/qs_tile_style_tear_drop</item>
+        <item>@string/qstile_neonlike</item>
     </string-array>
 
     <string-array name="qs_tile_style_selector_values" translatable="false">
@@ -31,6 +32,7 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
+        <item>5</item>
     </string-array>
 
     <!-- Flashlight gestures -->
