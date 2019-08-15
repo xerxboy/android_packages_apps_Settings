@@ -37,7 +37,7 @@ public class TapToWakePreferenceController extends AbstractPreferenceController 
 
     @Override
     public boolean isAvailable() {
-        return false;
+        return true;
     }
 
     @Override
