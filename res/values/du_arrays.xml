@@ -24,6 +24,7 @@
         <item>@string/qs_tile_style_squircle</item>
         <item>@string/qs_tile_style_tear_drop</item>
         <item>@string/qstile_neonlike</item>
+        <item>@string/qstile_oos</item>
     </string-array>
 
     <string-array name="qs_tile_style_selector_values" translatable="false">
@@ -33,6 +34,7 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
+        <item>6</item>
     </string-array>
 
     <!-- Flashlight gestures -->
