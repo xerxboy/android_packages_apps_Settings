@@ -32,7 +32,6 @@ public class DuMaintainerPreferenceController extends BasePreferenceController {
 
     private static final Uri INTENT_URI_DATA = Uri.parse("https://github.com/dracarys18");
     private static final String TAG = "duDialogCtrl";
-    private static final String DU_PROPERTY = "Jon Snow";
     private final PackageManager mPackageManager = this.mContext.getPackageManager();
 
     public DuMaintainerPreferenceController(Context context, String str) {
@@ -44,9 +43,8 @@ public class DuMaintainerPreferenceController extends BasePreferenceController {
     }
 
     public CharSequence getSummary() {
-        String du = SystemProperties.get(DU_PROPERTY,
-                this.mContext.getString(R.string.device_info_default));
-        return du;
+        String maintain= "JonSnow";
+        return maintain;
     }
 
     public boolean handlePreferenceTreeClick(Preference preference) {
